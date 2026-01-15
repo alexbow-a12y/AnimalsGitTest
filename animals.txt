@@ -2,4 +2,7 @@ Aardvark
 elephant 
 Giraffe
 Tiger
+cat 
+dog 
+otter
 
